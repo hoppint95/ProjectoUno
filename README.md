@@ -1,2 +1,2 @@
-# Skainet95
-this is for your future.
+# Project1
+first repository to keep the scripts
